@@ -2,6 +2,10 @@ FROM lukasheinrich/yadage
 WORKDIR /notebook
 ADD yadage_widget.py yadage_widget.py
 ADD manualui.py manualui.py
+
+
+RUN pip install matplotlib numpy scipy
+
 RUN pip install jupyter
 RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ENV PYTHONPATH /notebook
