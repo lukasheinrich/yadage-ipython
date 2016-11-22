@@ -2,7 +2,7 @@
 
 this package is exploring a interactive IPython interface/widget for yadage workflows. This enables the free mixing of linear and non-linear computation aided by a distributed compute resource.
 
-To test it out you can use the pre-build `yadageipython` docker image
+To test it out you can use the pre-built `yadageipython` docker image
 
     mkdir demo
     curl https://raw.githubusercontent.com/lukasheinrich/yadage-ipython/master/weinberg_demonotebook.ipynb > demo/notebook.ipynb
