@@ -8,3 +8,8 @@ To test it out you can use the pre-build `yadageipython` docker image
     curl https://raw.githubusercontent.com/lukasheinrich/yadage-ipython/master/testnotebook.ipynb > $PWD/docker/testnotebook.ipynb
 
 open a browser at http://localhost:9999/notebooks/testnotebook.ipynb
+
+### screencast:
+
+[![aretha - demo](https://giphy.com/gifs/ZE7fLLvUZBvYk)](https://www.youtube.com/watch?v=Ehdvj9kGYxk)
+
