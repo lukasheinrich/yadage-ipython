@@ -4,6 +4,7 @@ this package is exploring a interactive IPython interface/widget for yadage work
 
 To test it out you can use the pre-build `yadageipython` docker image
 
+    mkdir demo
     curl https://raw.githubusercontent.com/lukasheinrich/yadage-ipython/master/weinberg_demonotebook.ipynb > demo/notebook.ipynb
     docker run -it -p 9999:8888 -w $PWD/demo -v $PWD/demo:$PWD/demo -v /var/run/docker.sock:/var/run/docker.sock --rm lukasheinrich/yadageipython
 
