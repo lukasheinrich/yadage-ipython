@@ -12,5 +12,5 @@ open a browser at http://localhost:9999/notebooks/testnotebook.ipynb
 
 ### screencast:
 
-[![aretha - demo](https://giphy.com/gifs/ZE7fLLvUZBvYk)](https://www.youtube.com/watch?v=Ehdvj9kGYxk)
+[![yadageipython - demo](http://i.giphy.com/ZE7fLLvUZBvYk.gif)](https://www.youtube.com/watch?v=Ehdvj9kGYxk)
 
