@@ -1,4 +1,4 @@
-#yadage ipython interface
+# yadage ipython interface
 
 this package is exploring a interactive IPython interface/widget for [yadage](https://github.com/diana-hep/yadage) workflows. This enables the free mixing of linear and non-linear computation aided by a distributed compute resource.
 
